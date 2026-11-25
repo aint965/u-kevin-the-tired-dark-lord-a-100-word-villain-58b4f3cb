@@ -11,10 +11,10 @@ The monologue is spoken by Brindle, keeper of the last light on Narrow Bay —
 a villain who doused her own lighthouse three storms back so the wrecks would
 pay for her roof, and who is tonight waiting for the fleet to come home to the
 rocks. She never says she is tired; the tiredness lives in the rhythm, the
-pauses, and the small deflections — the cold tea, the singing kettle, the
-forgotten thread — while she discusses something terrible.
+pauses, and the small deflections — the tea, the singing kettle, the
+humming — while she discusses something terrible.
 
-- Monologue: exactly **100 words**, **515 characters** (well under the 600-character gate).
+- Monologue: exactly **100 words**, **524 characters** (well under the 600-character gate).
 - Output: fully deterministic — every run writes byte-identical `entry.txt`.
 
 ## Run it
